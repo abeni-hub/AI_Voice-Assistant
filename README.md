@@ -21,3 +21,36 @@ Download Ollama from [here](https://ollama.ai/download) and ensure it’s runnin
 
 ```bash
 ollama --version
+```
+## ⚡ Setup & Run Locally
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/abeni-hub/AI_Voice-Assistant.git
+cd AI_Property_Advisor
+
+```
+
+## 🛠️ Project Structure
+
+```bash
+proptech-demo/
+│
+├── manage.py
+├── frontend.py # Streamlit frontend
+├── requirements.txt
+├── .env # Environment variables (ignored in Git)
+│
+├── proptech/ # Django project settings
+│ ├── init.py
+│ ├── settings.py
+│ ├── urls.py
+│ └── wsgi.py
+│
+└── api/ # Django app with AI advice API
+├── init.py
+├── views.py
+├── urls.py
+└── apps.py
+```
+<img width="1357" height="605" alt="image" src="https://github.com/user-attachments/assets/6594e236-8ad2-48f4-8e61-ed99aef18921" />
