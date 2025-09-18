@@ -30,6 +30,4 @@ git clone https://github.com/abeni-hub/AI_Voice-Assistant.git
 cd AI_Property_Advisor
 
 ```
-
-```
 <img width="1357" height="605" alt="image" src="https://github.com/user-attachments/assets/6594e236-8ad2-48f4-8e61-ed99aef18921" />
